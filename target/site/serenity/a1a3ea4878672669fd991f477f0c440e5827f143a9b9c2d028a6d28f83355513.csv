@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Entry to Banitsmo","Verify access to pdf","FAILURE","2024-05-07T11:58:54.2316774-05:00[America/Bogota]","0.0","0.94"
+"Entry to Banitsmo","Verify access to pdf","FAILURE","2024-05-10T10:43:37.9528654-05:00[America/Bogota]","0.0","32.37"
+"Entry to Bancolombia","Verify access to tools","PENDING","2024-05-10T11:09:17.9370892-05:00[America/Bogota]","0.0","0.31"
+"Entry to Bancolombia","Verify access to tools","SUCCESS","2024-05-10T12:39:31.6095305-05:00[America/Bogota]","0.0","34.9"
